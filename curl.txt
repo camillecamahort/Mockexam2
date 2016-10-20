@@ -1,0 +1,10 @@
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+      <meta content="https://avatars1.githubusercontent.com/u/22270168?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="camillecamahort/Mockexam2" name="twitter:title" /><meta content="Contribute to Mockexam2 development by creating an account on GitHub." name="twitter:description" />
+      <meta content="https://avatars1.githubusercontent.com/u/22270168?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="camillecamahort/Mockexam2" property="og:title" /><meta content="https://github.com/camillecamahort/Mockexam2" property="og:url" /><meta content="Contribute to Mockexam2 development by creating an account on GitHub." property="og:description" />
+  <meta name="description" content="Contribute to Mockexam2 development by creating an account on GitHub.">
+      <em class="text-gray">No description or website provided.</em>
+              <a href="/camillecamahort/Mockexam2/search?l=javascript"  data-ga-click="Repository, language stats search click, location:repo overview">
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js"></script>
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-230aa25e3a2902762f7799279fb1169d3b3d59753a1fff0a60be87e7c603212d.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-32ff1c7839200f548424ff8eb21b4aceb0cf3c18d3587cd6d60c9db7f4f6c4d4.js"></script>
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
